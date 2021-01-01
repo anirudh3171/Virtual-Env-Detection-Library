@@ -58,7 +58,7 @@ com.example.dummy
 ```
 Output: 
 ```
-Y29tLnh5ei5hcHBuYW1l
+Y29tLmV4YW1wbGUuZHVtbXk=
 ```
 
 The Implementation Step will now look like,
